@@ -1,0 +1,6 @@
+<project>
+<group id>com.mt</group id>
+<artifact id>HDFCbank</artifact id>
+<version>1.0.0</version>
+<packaging>jar</packaging>
+</project>
